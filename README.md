@@ -6,7 +6,7 @@
 
 Existe una API pública y gratuita que guardó y registro de datos sobre el Covid19 en
 Estados Unidos hasta 2021. Es la siguiente:
-![https://covidtracking.com/data/api](https://covidtracking.com/data/api)
+[https://covidtracking.com/data/api](https://covidtracking.com/data/api)
 
 El reto es de análisis de datos. El objetivo es cargar usando Python desde la API los datos
 relativos a la incidencia de Covid19 históricos por estado. Una vez cargados, hacer una
