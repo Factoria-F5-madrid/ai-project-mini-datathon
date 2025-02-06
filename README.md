@@ -41,3 +41,11 @@ Dos dias para la parte en grupos.
 - Requests
 - Pandas
 - Matplotlib, Pyplot, Seaborn, Bokeh
+
+## Evaluacion
+Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y de visualización de datos
+- Uso y gestión de formato .csv
+- Limpieza y preprocesado de datos
+- Visualización de datos (seaborn, matplotlib, plotly)
+- Análisis exploratorio detallado (EDA)
+
