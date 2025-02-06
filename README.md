@@ -1,6 +1,7 @@
 # Proyecto EDA: Mini Datathon - USA Covid 19
 
-![Banner Proyectos](https://github.com/user-attachments/assets/bc6e34f7-4031-43dd-8cfc-805c935ba3c4)
+![Banner Proyectos](assets/minidatathon.PNG)
+
 
 ## 📝 Descripción del Proyecto
 
