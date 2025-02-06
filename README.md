@@ -15,16 +15,27 @@ exploración de esos datos y elaborar un informe con las conclusiones y los desc
 Contadnos la historia que habéis leído en los datos :)
 
 ## 📦 Condiciones de entrega
-Es un proyecto individual. Para el día de la entrega, será necesario presentar:
-- El repositorio en GitHub, con el trabajo ordenado adecuadamente en ramas y
-mensajes de commit limpios y claros.
-- Un cuaderno de Jupyter con el análisis llevado a cabo
-- Una presentación de las conclusiones obtenidas. (Puede ser un documento de
-conclusiones)
+La primera parte del proyecto es individual. Para el día de la entrega, será necesario presentar:
+
+- El repositorio en GitHub, con al menos un Jupyter notebook con el análisis que se ha levado a cabo claramente explicado,
+   ordenado adecuadamente en ramas y mensajes de commit limpios y claros.
+
+
+En la segunda parte del proyecto os pondremos en grupos y debereis poner en comun el trabajo realizado individualmente 
+y entregar un analisis final: 
+
+- Un repositorio de GitHub con el notebook con el análisis de los datos final, producto de las aportaciones de todos los miembros del equipo.
+- Una presentación de las conclusiones obtenidas. 
+
+Nota: Aunque sea el mismo para todo el equipo hacer todos los miembros del equipo la entrega individualmente.
+
+
 
 ## ⏳ Plazo de Entrega
 
-Dos dias.
+Dos dias para la parte individual.
+Dos dias para la parte en grupos.
+
 
 ## 🛠️ Tecnologías a usar
 - Requests
