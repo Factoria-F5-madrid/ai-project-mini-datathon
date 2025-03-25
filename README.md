@@ -1,17 +1,15 @@
-# Proyecto EDA: Mini Datathon - USA Covid 19
+# Proyecto EDA: Mini Datathon
 
 ![Banner Proyectos](assets/minidatathon.PNG)
 
 
 ## 📝 Descripción del Proyecto
 
-Existe una API pública y gratuita que guardó y registro de datos sobre el Covid19 en
-Estados Unidos hasta 2021. Es la siguiente:
-[https://covidtracking.com/data/api](https://covidtracking.com/data/api)
+Tenemos una serie de datos de los que necesecitamos sacar conclusiones para más adelante poder usarlos, en este caso, es importante mostrar ante nuestro CEO datos limpios y con sentido, para eso llevaremos a cabo un Exploratory Data Analysis.
 
-El reto es de análisis de datos. El objetivo es cargar usando Python desde la API los datos
-relativos a la incidencia de Covid19 históricos por estado. Una vez cargados, hacer una
-exploración de esos datos y elaborar un informe con las conclusiones y los descubrimientos.
+Tu como IA developer, debes usar el dataset de tu preferencia y realizar el análisis. En caso de no tener un dataset definido, puedesa hacer uso de la siguiente API pública y gratuita, que guardó y registro de datos sobre el Covid19 en Estados Unidos hasta 2021. [Link a la API](https://covidtracking.com/data/api)
+
+Una vez cargados, hacer una exploración de esos datos y elaborar un informe con las conclusiones y los descubrimientos.
 Contadnos la historia que habéis leído en los datos :)
 
 ## 📦 Condiciones de entrega
@@ -20,15 +18,13 @@ La primera parte del proyecto es individual. Para el día de la entrega, será n
 - El repositorio en GitHub, con al menos un Jupyter notebook con el análisis que se ha levado a cabo claramente explicado,
    ordenado adecuadamente en ramas y mensajes de commit limpios y claros.
 
-
 En la segunda parte del proyecto os pondremos en grupos y debereis poner en comun el trabajo realizado individualmente 
 y entregar un analisis final: 
 
 - Un repositorio de GitHub con el notebook con el análisis de los datos final, producto de las aportaciones de todos los miembros del equipo.
 - Una presentación de las conclusiones obtenidas. 
 
-Nota: Aunque sea el mismo para todo el equipo hacer todos los miembros del equipo la entrega individualmente.
-
+Nota: Cada persona debe entregar la primera parte como es, un EDA individual, Sin embargo, para la segunda parte una persona del equipo debe ser asignada para hacer la entrega grupal en classroom.
 
 
 ## ⏳ Plazo de Entrega
@@ -49,3 +45,7 @@ Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y 
 - Visualización de datos (seaborn, matplotlib, plotly)
 - Análisis exploratorio detallado (EDA)
 
+IMPORTANTE:
+
+1. La evaluación constará igualmente de dos partes, la evaluación individual que representará el 60% sobre el total y la grupal que representará el 40%
+2. Cada evaluación sin embargo llenará hasta un máximo del 100% que luego será ponderado a su peso respectivo (0.4 ó 0.6)
