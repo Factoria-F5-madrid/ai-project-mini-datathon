@@ -44,8 +44,3 @@ Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y 
 - Limpieza y preprocesado de datos
 - Visualización de datos (seaborn, matplotlib, plotly)
 - Análisis exploratorio detallado (EDA)
-
-IMPORTANTE:
-
-1. La evaluación constará igualmente de dos partes, la evaluación individual que representará el 60% sobre el total y la grupal que representará el 40%
-2. Cada evaluación sin embargo llenará hasta un máximo del 100% que luego será ponderado a su peso respectivo (0.4 ó 0.6)
