@@ -29,8 +29,7 @@ Nota: Cada persona debe entregar la primera parte como es, un EDA individual, Si
 
 ## ⏳ Plazo de Entrega
 
-Dos dias para la parte individual.
-Dos dias para la parte en grupos.
+Una semana.
 
 
 ## 🛠️ Tecnologías a usar
